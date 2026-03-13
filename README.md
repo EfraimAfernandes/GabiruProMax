@@ -37,8 +37,10 @@ Este é um projeto open-source! Contribuições são bem-vindas, especialmente d
 
 ### 📄 Licença
 
-MIT License - Sinta-se livre para usar e contribuir!
+Este projeto está licenciado sob a **Licença Pública Geral GNU v3.0** (GPL-3.0). 
+Sinta-se livre para usar, modificar e distribuir este software, desde que respeite os termos da licença (incluindo a disponibilização do código fonte de quaisquer modificações).
 
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório.
 ---
 
 *"Porque todo produtor merece se sentir um verdadeiro pecuarista, mas com lucro no bolso!"* 🐄💙
